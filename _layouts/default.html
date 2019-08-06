@@ -17,7 +17,7 @@
   </head>
   <body>
 
-      <header style = "background: url(images/WebLogo.PNG);">
+      <header style = "background: url(images/WebLogo.PNG); background-size: contain;">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
@@ -30,7 +30,7 @@
           <div class="downloads">
             <span>Downloads:</span>
             <ul>
-              <li><a href="test.txt" class="button">ZIP</a></li>
+              <li><a href="https://github.com/CalmyJane/WTW/zipball/master" class="button">ZIP</a></li>
               <li><a href="{{ site.github.tar_url }}" class="button">TAR</a></li>
             </ul>
           </div>
@@ -49,7 +49,7 @@
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+        <p><small>Created by Calmy Jane</small></p>
       </footer>
     </div>
 
