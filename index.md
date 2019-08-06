@@ -9,7 +9,7 @@ Feedback and bugreports are very welcome: mailto:calmy.jane@gmail.com
 
 ### Instructions
 Unpack the **complete content** to disk and run *Walking The Wires.exe*.
-Move with **ASDW** or **Arrow Keys**. Play the tutorial and read the help for details about the gameplay. 
+Move with ASDW or Arrow Keys. Play the tutorial and read the help for details about the gameplay. 
 
 ### Disclaimer
 This software is privatly developed and is in no connection to National Instruments. Feel free to privately use and share this software. For commercial use (e.g. tradeshows), please contact mailto:calmy.jane@gmail.com.
