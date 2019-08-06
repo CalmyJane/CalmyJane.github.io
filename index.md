@@ -1,10 +1,12 @@
-## Welcome to WalKING The Wires!
-
+## Welcome to WalKING The Wires
 WalKING The Wires is a LabVIEW-Themed Jump & Run game.
+
+### About this game
+This game is developed as a pure hobby project.
 
 ### Disclaimer
 
-This software is privatly developed and is in no connection to National Instruments. Feel free to privately use and share this software. For commercial use (e.g. tradeshows), please contact mailto:calmy.jane@gmail.com?subject=Request%20for%20commercial%20use&body=Dear%20Calmy%2C%0A%0AI'm%20interested%20in%20using%20your%20game%20for%20this%20purpouse%3A%0A%0A%3Cdescribe%20your%20usecase%20here%3E%0A%0AWhat%20do%20you%20think%3F!%0A%0ACheers%2C%0A%3Cyou%20guessed%20it%3A%20your%20name%3E
+This software is privatly developed and is in no connection to National Instruments. Feel free to privately use and share this software. For commercial use (e.g. tradeshows), please contact mailto:calmy.jane@gmail.com as well as for any other open questions.
 
 
 
