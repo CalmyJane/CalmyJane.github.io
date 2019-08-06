@@ -14,4 +14,4 @@ Move with ASDW or Arrow Keys. Play the tutorial and read the help for details ab
 ### Disclaimer
 This software is privatly developed and is in no connection to National Instruments. Feel free to privately use and share this software. For commercial use (e.g. tradeshows), please contact mailto:calmy.jane@gmail.com.
 
-### Have Fun Playing!
+## Have Fun Playing!
