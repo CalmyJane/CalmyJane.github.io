@@ -9,11 +9,11 @@ This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It
 <table>
     <tr>
         <td><img id = "myImg" src="images/SC1.png"></td>
-        <td><img src="images/SC2.png"></td>
+        <td><img id = "myImg" src="images/SC2.png"></td>
     </tr>
     <tr>
-        <td><img src="images/SC3.png"></td>
-        <td><img src="images/SC4.png"></td>
+        <td><img id = "myImg" src="images/SC3.png"></td>
+        <td><img id = "myImg" src="images/SC4.png"></td>
     </tr>
 </table>
 
