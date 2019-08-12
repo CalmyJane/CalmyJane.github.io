@@ -1,7 +1,7 @@
 ## Welcome to WalKING The Wires
 WalKING The Wires is a LabVIEW-Themed jump & run game. You can explore four different blockdiagrams and collect kudos to reach the highscore!
 
-<img src="images/CoinAnim.gif" width = "100%" height="auto">
+<img src="images/Coins.gif" width = "100%" height="auto">
 
 ### About this game
 This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It's a pure hobby project created without any gamedevelopment background.
