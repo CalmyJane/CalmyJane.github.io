@@ -8,7 +8,7 @@ This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It
 
 Feedback and bugreports are very welcome: [calmy.jane@gmail.com](mailto:calmy.jane@gmail.com)
 
-###Screenshots
+### Screenshots
 
 <table>
     <tr>
