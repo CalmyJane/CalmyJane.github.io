@@ -8,7 +8,7 @@ This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It
 
 <table>
     <tr>
-        <td><img src="images/SC1.png"></td>
+        <td><img id = "myImg" src="images/SC1.png"></td>
         <td><img src="images/SC2.png"></td>
     </tr>
     <tr>
