@@ -6,6 +6,10 @@ WalKING The Wires is a LabVIEW-Themed jump & run game. You can explore four diff
 ### About this game
 This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It's a pure hobby project created without any gamedevelopment background.
 
+![Image](images/SC1.png)![Image](images/SC2.png)
+![Image](images/SC3.png)![Image](images/SC4.png)
+
+
 Feedback and bugreports are very welcome: [calmy.jane@gmail.com](mailto:calmy.jane@gmail.com)
 
 ### Instructions
