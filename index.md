@@ -8,12 +8,12 @@ This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It
 
 <table>
     <tr>
-        <td><img src="images/SC1.png" width="192" height="108"></td>
-        <td><img src="images/SC2.png" width="192" height="108"></td>
+        <td><img src="images/SC1.png" width="384" height="216"></td>
+        <td><img src="images/SC2.png" width="384" height="216"></td>
     </tr>
     <tr>
-        <td><img src="images/SC3.png" width="192" height="108"></td>
-        <td><img src="images/SC4.png" width="192" height="108"></td>
+        <td><img src="images/SC3.png" width="384" height="216"></td>
+        <td><img src="images/SC4.png" width="384" height="216"></td>
     </tr>
 </table>
 
