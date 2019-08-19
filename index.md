@@ -9,7 +9,7 @@ This game is developed for LabVIEW Enthusiasts but is fun to play for anyone. It
 Feedback and bugreports are very welcome: [calmy.jane@gmail.com](mailto:calmy.jane@gmail.com)
 
 ### Screenshots
-
+<hr>
 <table class="bla" border = "0" cellspacing="0" cellpadding="0">
     <tr>
         <td><img class = "myImg" src="images/SC1.png"></td>
@@ -20,7 +20,7 @@ Feedback and bugreports are very welcome: [calmy.jane@gmail.com](mailto:calmy.ja
         <td><img class = "myImg" src="images/SC4.png"></td>
     </tr>
 </table>
-
+<hr>
 ### Instructions
 **Unpack the complete content** of the zip and run *Walking The Wires.exe*.
 Move with WASD or Arrow Keys. Play the tutorial and read the help for details. 
