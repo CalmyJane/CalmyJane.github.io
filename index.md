@@ -10,7 +10,7 @@ Feedback and bugreports are very welcome: [calmy.jane@gmail.com](mailto:calmy.ja
 
 ### Screenshots
 
-<table border = "0">
+<table class="bla" border = "0">
     <tr>
         <td><img class = "myImg" src="images/SC1.png"></td>
         <td><img class = "myImg" src="images/SC2.png"></td>
